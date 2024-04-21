@@ -19,4 +19,4 @@ Additionally, you need to have the following Python libraries installed:
 
 *mysql.connector 
 
-a*os
+*os
