@@ -5,4 +5,14 @@ The Simple Student Information System (SSIS) is a Python-based program that prov
 
 Features The SSIS allows users to perform the following functions:
 
--Add new student/course records -Update student/course records -Delete student/course records -View existing student/course records -Show all existing student/course records Requirements To run the SSIS, you need to have Python 3.x installed on your computer. Additionally, you need to have the following Python libraries installed: *tkinter *mysql.connector *os
+-Add new student/course records 
+-Update student/course records 
+-Delete student/course records 
+-View existing student/course records 
+-Show all existing student/course records 
+
+Requirements To run the SSIS, you need to have Python 3.x installed on your computer. 
+Additionally, you need to have the following Python libraries installed: 
+*tkinter 
+*mysql.connector 
+a*os
